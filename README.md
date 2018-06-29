@@ -4,7 +4,7 @@
 ## Lycan
 
 [![Build Status](https://travis-ci.org/bessing/openc2-lycan-java.svg)](https://travis-ci.org/bessing/openc2-lycan-java)
-[![Coverage Status](https://codecov.io/gh/bessing/openc2-lycan-java/graph/badge.svg)](https://codecov.io/gh/bessing/openc2-lycan-java)
+[![Coverage Status](https://codecov.io/gh/bessing/openc2-lycan-java/branch/develop/graph/badge.svg)](https://codecov.io/gh/bessing/openc2-lycan-java)
 
 Lycan is an implementation of the OpenC2 OASIS standard for command and control messaging. 
 The current implementation is based on the Working Draft 06/Committee Specification Draft  04 documentation. 
